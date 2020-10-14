@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Pursuing B.Tech in Computer Science Engineering
 - 💼 &nbsp; Android developer and full stack web developer
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Cricket 🏏 , big fan of Virat Kohli.💙
+- ✍️ &nbsp; Watching Cricket 🏏 , big fan of Virat Kohli 💙.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
