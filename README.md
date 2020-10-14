@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Adrish. <img src="https://raw.githubusercontent.com/Adrish1999/Adrish1999/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Adrish. <img src="https://github.com/Adrish1999/Adrish1999/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
