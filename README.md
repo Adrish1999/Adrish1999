@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Pursuing B.Tech in Computer Science Engineering
 - 💼 &nbsp; Android developer and full stack web developer
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Cricket 🏏 , big fan of Virat Kohli 💙.
+- ✍️ &nbsp; Watching Cricket 🏏 , big fan of King Kohli , Hitman , Boom Boom Bumrah 💙.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | Java | C++ | C | Dart
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap | Django
 - 🛢 &nbsp; MySQL | Firebase | MongoDB | Google Cloud
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code
 - 🖥 &nbsp; Adobe Xd 
 
 <br>
