@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Adrish. <img src="https://github.com/Adrish1999/Adrish1999/blob/main/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> :male-technologist About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning AI algorithms and Deep Learning
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
