@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing B.Tech in Computer Science Engineering
 - 💼 &nbsp; Android developer and full stack web developer
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
 - 🏏 &nbsp; Watching Cricket , big fan of King Kohli , Hitman , Boom Boom Bumrah 💙.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
