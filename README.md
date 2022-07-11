@@ -3,20 +3,20 @@
 
 <h3> 🧑‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning AI algorithms and Deep Learning
+- 🔭 &nbsp; Mastering Full Stack Technologies.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing B.Tech in Computer Science Engineering
-- 💼 &nbsp; Android developer and full stack web developer
+- 🎓 &nbsp; Completed B.Tech in Computer Science Engineering.
+- 💼 &nbsp; Android developer and full stack web developer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence .
 - 🏏 &nbsp; Watching Cricket , big fan of King Kohli , Hitman , Boom Boom Bumrah 💙.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | C | Dart
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap | Django
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Google Cloud
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code
+- 💻 &nbsp; Python | Java | C++ | C | HTML | CSS | Javascript | TypeScript | Dart
+- 🌐 &nbsp; Android | Flutter | Bootstrap | Django | Spring | Spring Boot | Angular
+- 🛢 &nbsp; MySQL | Firebase | MongoDB | Google Cloud | AWS
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse
 - 🖥 &nbsp; Adobe Xd 
 
 <br>
