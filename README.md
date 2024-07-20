@@ -14,9 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | C | HTML | CSS | Javascript | TypeScript | Dart
-- 🌐 &nbsp; Android | Flutter | Bootstrap | Django | Spring | Spring Boot | Angular
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Google Cloud | AWS
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse
+- 🌐 &nbsp; Android | Flutter | Bootstrap | Django | Spring | Spring Boot | Angular | React
+- 🛢 &nbsp; MySQL | Oracle SQL | MongoDB | Google Cloud | AWS | Azure
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | STS
 - 🖥 &nbsp; Adobe Xd 
 
 <br>
