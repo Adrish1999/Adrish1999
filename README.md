@@ -3,7 +3,7 @@
 
 <h3> 🧑‍💻 About Me </h3>
 
-- 🔭 &nbsp; Mastering Full Stack Technologies.
+- 🔭 &nbsp; Master in Full Stack Technologies and IoT solutions.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Completed B.Tech in Computer Science Engineering.
 - 💼 &nbsp; Android developer and full stack web developer.
@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++ | C | HTML | CSS | Javascript | TypeScript | Dart
-- 🌐 &nbsp; Android | Flutter | Bootstrap | Django | Spring | Spring Boot | Angular | React
+- 🌐 &nbsp; Android | Flutter | Bootstrap | Django | Spring | Spring Boot | Angular | React | Node.js
 - 🛢 &nbsp; MySQL | Oracle SQL | MongoDB | Google Cloud | AWS | Azure
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | STS
 - 🖥 &nbsp; Adobe Xd 
